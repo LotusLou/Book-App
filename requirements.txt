@@ -4,3 +4,7 @@ pydantic-settings
 sqlalchemy
 uvicorn
 httpx
+pytest 
+pytest-asyncio
+pydantic
+typing 

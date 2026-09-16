@@ -27,12 +27,12 @@ app/
     components/
       navbar.html
       book_card.html
+      searchbar.html
     pages/
       index.html
       books.html
       profile.html
 static/
-  css/style.css
   js/barcode_scanner.js
   js/radar_chart.js
   img/
